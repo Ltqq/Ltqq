@@ -27,5 +27,5 @@ Wechat
 
 
 #### In learning
-![Learning](https://go-skill-icons.vercel.app/api/icons?i=rust,prometheus,grafana,postgres,kubernetes,elasticsearch)
+![Learning](https://go-skill-icons.vercel.app/api/icons?i=rust,prometheus,grafana,postgres,kubernetes,elasticsearch,react,redux)
 
