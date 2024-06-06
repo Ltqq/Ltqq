@@ -23,8 +23,9 @@ Wechat
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,redis,rabbitmq,nginx)
 
 #### Other tools & Technologies
-![Others](https://go-skill-icons.vercel.app/api/icons?i=git,github,markdown,gitlab,postman,idea,goland)
+![Others](https://go-skill-icons.vercel.app/api/icons?i=git,github,markdown,gitlab,postman,idea,goland,chrome,swagger)
 
 
-
+#### In learning
+![Learning](https://go-skill-icons.vercel.app/api/icons?i=rust,prometheus,grafana,postgres,kubernetes,elasticsearch)
 
