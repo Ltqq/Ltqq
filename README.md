@@ -20,7 +20,7 @@ Wechat
 [![Backend Technologies](https://skillicons.dev/icons?i=docker,linux,bash)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,redis,rabbitmq.nginx)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,redis,rabbitmq,nginx)
 
 #### Other tools & Technologies
 ![Others](https://go-skill-icons.vercel.app/api/icons?i=git,github,markdown,gitlab,postman,idea,goland)
