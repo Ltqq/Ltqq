@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ltqq&show_icons=true&theme=cobalt)
+![Ltq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ltqq&show_icons=true&theme=cobalt)
 
 ## Connect with me
 Wechat
@@ -11,19 +11,19 @@ Wechat
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=go,java,shell)
+![Languages](https://skillicons.dev/icons?i=go,java)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=docker,linux,bash)](https://skillicons.dev)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,redis,neo4j)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,gitlab)
+![Others](https://go-skill-icons.vercel.app/api/icons?i=git,github,markdown,vscode,gitlab,postman)
 
 
 
