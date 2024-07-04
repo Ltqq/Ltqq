@@ -14,7 +14,7 @@ Wechat
 ![Languages](https://skillicons.dev/icons?i=go,java)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,react,redux)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=docker,linux,bash)](https://skillicons.dev)
