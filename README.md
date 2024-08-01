@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🌟
 Wechat
 
 ## my blog
-http://ltq9.top
+https://ltq9.top
 
 ## Skills
 
@@ -29,6 +29,5 @@ http://ltq9.top
 ![Others](https://go-skill-icons.vercel.app/api/icons?i=git,github,markdown,gitlab,postman,idea,goland,chrome,swagger)
 
 
-#### In learning
 ![Learning](https://go-skill-icons.vercel.app/api/icons?i=rust,prometheus,grafana,postgres,kubernetes,elasticsearch,react,redux)
 
