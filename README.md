@@ -8,8 +8,6 @@ Welcome to my GitHub profile! 🌟
 ## Connect with me
 Wechat
 
-## my blog
-https://ltq9.top
 
 ## Skills
 
